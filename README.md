@@ -39,5 +39,13 @@ The project focuses on **developer productivity, scalability, and clean UI**, pr
 
 ---
 
-## 📂 Project Structure
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/Sudhanshu8252/web-based-ide.git
+cd web-based-ide
+
+
+
 
