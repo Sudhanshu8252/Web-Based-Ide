@@ -1,17 +1,43 @@
-# 🧪 Web-Based HTML/CSS/JS Practice IDE
+# Web-Based IDE 🧑‍💻🚀
 
-A lightweight, browser-based code editor designed for quickly writing and testing HTML, CSS, and JavaScript. Built for learning, experimenting, and rapid prototyping — no setup required.
-
----
-
-## 🌟 Features
-
-- ✍️ Live code editor for HTML, CSS, and JS
-- ⚡ Real-time preview in browser
-- 🧼 Simple, clean UI
-- 💾 Optional: Save/load your work using localStorage
+A **full-stack Web-Based Integrated Development Environment (IDE)** that allows users to write, edit, and manage source code directly in the browser.  
+The project focuses on **developer productivity, scalability, and clean UI**, providing a browser-based coding experience similar to modern online IDEs.
 
 ---
 
-## 📁 Project Structure
+## ✨ Features
+
+- 📝 Browser-based code editor
+- 📁 File & project management
+- 🔄 Frontend–Backend communication using REST APIs
+- ⚡ Fast and responsive UI
+- 🔐 Secure backend architecture
+- 🌐 Scalable full-stack design
+- 📱 Responsive design for different screen sizes
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+- HTML  
+- CSS  
+- JavaScript  
+- React.js  
+
+### Backend
+- Node.js  
+- Express.js  
+
+### Database
+- MongoDB  
+
+### Tools
+- Git & GitHub  
+- npm  
+- REST APIs  
+
+---
+
+## 📂 Project Structure
 
