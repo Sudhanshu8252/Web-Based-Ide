@@ -41,6 +41,48 @@ The project focuses on **developer productivity, scalability, and clean UI**, pr
 
 ## 📂 Project Structure
 
+Web-Based-Ide
+│
+├── Screenshots
+│ └── (project UI images)
+│
+├── backend
+│ ├── bin
+│ ├── models
+│ ├── routes
+│ ├── views
+│ ├── public
+│ │ └── stylesheets
+│ ├── app.js
+│ ├── package.json
+│ └── package-lock.json
+│
+├── frontend
+│ ├── public
+│ │ └── index.html
+│ │
+│ ├── src
+│ │ ├── components
+│ │ ├── pages
+│ │ ├── images
+│ │ ├── App.css
+│ │ ├── App.jsx
+│ │ ├── helper.js
+│ │ ├── index.css
+│ │ └── main.jsx
+│ │
+│ ├── eslint.config.js
+│ ├── postcss.config.js
+│ ├── tailwind.config.js
+│ ├── vite.config.js
+│ ├── package.json
+│ └── package-lock.json
+│
+├── .gitignore
+├── README.md
+├── package.json
+└── package-lock.json
+
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
