@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-mongoose.connect('mongodb://127.0.0.1:27017/codeIDE');
+mongoose.connect(process.env.MONGO_URI || 'mongodb://127.0.0.1:27017/codeIDE');
 
 const projectSchema = new mongoose.Schema({
   title: String,

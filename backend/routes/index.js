@@ -10,9 +10,9 @@ router.get('/', function (req, res, next) {
   res.render('index', { title: 'Express' });
 });
 
-const secret = "secret"; // secret key for jwt
+const secret = "secret"; // secret key for jwt  
 
-router.post("/signUp", async (req, res) => {
+router.post("/signUp", async (req, res) => { 
   let { username, name, email, password } = req.body;
   let emailCon = await userModel.findOne({ email: email });
   if (emailCon) {
