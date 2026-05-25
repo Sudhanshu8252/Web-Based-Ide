@@ -38,28 +38,23 @@ The project focuses on **developer productivity, scalability, and clean UI**, pr
 - REST APIs  
 
 ---
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Sudhanshu8252/web-based-ide.git
+git clone https://github.com/Sudhanshu8252/Web-Based-Ide.git
+```
 
-
-## Backend Setup
+### 2️⃣ Backend Setup
+```bash
 cd backend
 npm install
 npm start
+```
 
-## Frontend Setup
-
+### 3️⃣ Frontend Setup
+```bash
 cd frontend
 npm install
 npm run dev
-
-
-
-
-
-
-
+```
